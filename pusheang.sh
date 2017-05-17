@@ -2,5 +2,5 @@
 cd /home/abaro/probandoSO
 
 git add .
-git commit -m "crontab 4 intento Angel"
+git commit -m "subiendo y bajando"
 git push -u origin master
